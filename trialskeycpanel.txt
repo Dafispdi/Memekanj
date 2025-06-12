@@ -1,1 +1,1 @@
-trialcpanelv5
+cpanelv5trials
